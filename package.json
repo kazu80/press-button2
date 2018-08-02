@@ -2,6 +2,7 @@
   "name": "press-button2",
   "main": "press-button2.js",
   "dependencies": {
+    "@polymer/lit-element": "^0.5.2",
     "@polymer/polymer": "^3.0.0"
   },
   "devDependencies": {
